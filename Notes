@@ -1,0 +1,21 @@
+# Notes
+
+Data Scientist's Toolbox
+
+?fnctn - acess help
+help.search("fnctn") - search for function like
+args("fnctn") - what arguments can be used
+
+Asking an R question
+  -What steps will reproduce the problem? Functions used, order used
+  -What is the expected output?
+  -What is seen instead?
+  -What version of the product and packages?
+  -What OS?
+  
+Asking Data Analysis question
+  -What is the question you are trying to answer?
+  -What steps/tools did you use to solve it?
+  -What did you expect to see?
+  -What did you actually see?
+  -What other solutions have you thought about?
