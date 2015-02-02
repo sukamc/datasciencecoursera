@@ -19,3 +19,7 @@ Asking Data Analysis question
   -What did you expect to see?
   -What did you actually see?
   -What other solutions have you thought about?
+
+Question Format
+  - R Version lm() function on Specific OS -- seg fault on large data frame
+  - Using principal components to discover common variation in rows of a matrix, should I see U, D, or V^T?
