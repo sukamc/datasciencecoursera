@@ -23,3 +23,6 @@ Asking Data Analysis question
 Question Format
   - R Version lm() function on Specific OS -- seg fault on large data frame
   - Using principal components to discover common variation in rows of a matrix, should I see U, D, or V^T?
+  
+  Git = version control
+  Github - webservice to deal with Repositories on the web
